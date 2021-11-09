@@ -5,6 +5,7 @@
 #include <iostream>
 #include <string>
 
+
 /* #define TIME 10'000 */
 /* #define RANGE 100000 */
 
